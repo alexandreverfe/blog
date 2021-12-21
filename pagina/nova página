@@ -4,6 +4,7 @@
         <meta charset="utf-8">
         <link rel="stylesheet" type="text/css" href="../css/estilo.css">
         <title> Blog Lex Verfe </title>
+        <link rel="icon" type="image/ico" href="../imagens/favicon.ico">
     </head>
     <body>
         <div id="interface">
